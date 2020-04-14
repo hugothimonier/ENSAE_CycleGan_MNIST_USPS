@@ -4,6 +4,22 @@ This repo contains the work of <b> Hugo Thimonier </b> (ENSAE, ENS Paris Saclay)
 
 ### Link to google colab : https://colab.research.google.com/drive/1cYCBRVjDbN2ffqbYnG4grgKTP0bB2n6i#scrollTo=Zinj7hAGpCai
 
+## Usage
+
+#### Clone the repository
+
+```bash
+$ git clone https://github.com/hugothimonier/ENSAE_CycleGan_MNIST_USPS.git
+$ cd ENSAE_CycleGan_MNIST_USPS/
+```
+
+#### Train Model
+
+```bash
+python main.py
+```
+
+
 ## Model
 
 The generator considered is the following 
