@@ -40,3 +40,12 @@ The objective is to translate MNIST images into USPS images. The two main differ
 
 
 ## Repo description
+
+### img
+Images used for the ReadMe.md
+
+### utilities
+.py files
+
+### results
+Images of generated pictures
