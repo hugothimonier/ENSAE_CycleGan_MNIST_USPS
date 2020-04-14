@@ -28,10 +28,10 @@ The MINST dataset and USPS dataset are as follows
 
 <div class="row">
   <div class="column">
-    <img src="https://github.com/hugothimonier/ENSAE_CycleGan_MNIST_USPS/blob/master/img/mnist_sample.png" alt="MNIST" height = '50%' width ='50%' >
+    <img src="https://github.com/hugothimonier/ENSAE_CycleGan_MNIST_USPS/blob/master/img/mnist_sample.png" alt="MNIST" height = '30%' width ='30%' >
   </div>
   <div class="column">
-    <img src="https://github.com/hugothimonier/ENSAE_CycleGan_MNIST_USPS/blob/master/img/usps_sample.png" alt="USPS" height = '50%' width ='50%' >
+    <img src="https://github.com/hugothimonier/ENSAE_CycleGan_MNIST_USPS/blob/master/img/usps_sample.png" alt="USPS" height = '30%' width ='30%' >
   </div>
 </div>
 
