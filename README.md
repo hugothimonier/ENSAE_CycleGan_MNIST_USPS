@@ -2,6 +2,8 @@
 
 This repo contains the work of <b> Hugo Thimonier </b> (ENSAE, ENS Paris Saclay) and <b> Gabriel Kasmi </b> (ENSAE, ENS Paris Saclay) on applying the Cycle GAN using PyTorch model to estimate the mapping from the MNIST digit distribution to the USPS digit distribution.
 
+### Link to google colab : https://colab.research.google.com/drive/1cYCBRVjDbN2ffqbYnG4grgKTP0bB2n6i#scrollTo=Zinj7hAGpCai
+
 ## Model
 
 The generator considered is the following 
@@ -41,11 +43,10 @@ The objective is to translate MNIST images into USPS images. The two main differ
 
 ## Repo description
 
+### .py files
+
 ### img
 Images used for the ReadMe.md
-
-### utilities
-.py files
 
 ### results
 Images of generated pictures
