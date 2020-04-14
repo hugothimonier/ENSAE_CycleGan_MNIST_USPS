@@ -26,7 +26,7 @@ The overall model is as follows
 
 The MINST dataset and USPS dataset are as follows
 
-<p float="left">
+<p float="center">
   <img src="https://github.com/hugothimonier/ENSAE_CycleGan_MNIST_USPS/blob/master/img/mnist_sample.png" alt="MNIST" height = '40%' width ='40%' />
   <img src="https://github.com/hugothimonier/ENSAE_CycleGan_MNIST_USPS/blob/master/img/usps_sample.png" alt="USPS" height = '40%' width ='40%' /> 
 </p>
