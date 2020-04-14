@@ -22,4 +22,17 @@ The overall model is as follows
   <img src="https://github.com/hugothimonier/ENSAE_CycleGan_MNIST_USPS/blob/master/img/cyclegan.png">
 </p>
 
+## Sample
+
+The MINST dataset and USPS dataset are as follows
+
+<div class="row">
+  <div class="column">
+    <img src="https://github.com/hugothimonier/ENSAE_CycleGan_MNIST_USPS/blob/master/img/minst_sample.png" alt="MNIST" height = '50%' width ='50%' >
+  </div>
+  <div class="column">
+    <img src="https://github.com/hugothimonier/ENSAE_CycleGan_MNIST_USPS/blob/master/img/usps_sample.png" alt="USPS" height = '50%' width ='50%' >
+  </div>
+</div>
+
 ## Repo description
