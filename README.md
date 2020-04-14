@@ -19,7 +19,7 @@ The Discriminator considered is the following
 
 The overall model is as follows
 <p align="center">
-  <img src="https://github.com/hugothimonier/ENSAE_CycleGan_MNIST_USPS/blob/master/img/cyclegan.png">
+  <img src="https://github.com/hugothimonier/ENSAE_CycleGan_MNIST_USPS/blob/master/img/cyclegan.png" height = '60%' width ='60%'>
 </p>
 
 ## Sample and Results
