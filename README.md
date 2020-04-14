@@ -1,3 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+</head>
+<body>
+
 # ENSAE CycleGan MNIST USPS
 
 This repo contains the work of <b> Hugo Thimonier </b> (ENSAE, ENS Paris Saclay) and <b> Gabriel Kasmi </b> (ENSAE, ENS Paris Saclay) on applying the Cycle GAN model to estimate the mapping from the MNIST digit distribution to the USPS digit distribution.
