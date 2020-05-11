@@ -94,9 +94,6 @@ class CycleGenerator(nn.Module):
     def __init__(self, conv_dim=64, init_zero_weights=False):
         super(CycleGenerator, self).__init__()
 
-        ###########################################
-        ##   FILL THIS IN: CREATE ARCHITECTURE   ##
-        ###########################################
 
         # 1. Define the encoder part of the generator (that extracts features from the input image)
         # self.conv1 = conv(...)
